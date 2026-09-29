@@ -24,7 +24,3 @@
 ## Projetos
 
 📌 [Estudos — Bootcamp Itaú Java com IA DIO](https://github.com/navarro-devv/Estudos-Bootcamp-Itau-Java-com-IA-DIO)
-
-## Contato
-
-[![GitHub](https://img.shields.io/badge/GitHub-navarro--devv-181717?style=for-the-badge&logo=github)](https://github.com/navarro-devv)
