@@ -16,8 +16,7 @@
 
 ## Atualmente estudando
 
-- Lógica de programação
-- Fundamentos de Java
+- Lógica de programação e Fundamentos de Java
 - Git e GitHub
 - Inteligência Artificial
 
